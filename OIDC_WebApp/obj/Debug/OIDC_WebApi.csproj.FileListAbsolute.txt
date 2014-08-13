@@ -1,0 +1,62 @@
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\OIDC_WebApi.exe.config
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\OIDC_WebApi.exe
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\OIDC_WebApi.pdb
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Security.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Owin.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.Web.Http.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.Web.Http.Owin.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Security.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.Web.Http.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\System.Web.Http.Owin.xml
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\Build\bin\OIDC_WebApi.exe.config
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\Build\bin\OIDC_WebApi.exe
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\Build\bin\OIDC_WebApi.pdb
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\obj\Debug\OIDC_WebApi.exe
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\obj\Debug\OIDC_WebApi.pdb
+C:\Siemens\Web_Service_Interface_2.5_zug_D_gallikea_snp\GMS_EM_COMMON\Web_Service_Interface\Appl\WebAPI\NorthboundWebApiServer\OIDC_WebApi\obj\Debug\OIDC_WebApi.csprojResolveAssemblyReference.cache
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\OIDC_WebApi.exe.config
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\OIDC_WebApi.exe
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\OIDC_WebApi.pdb
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Hosting.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Newtonsoft.Json.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Owin.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.Web.Http.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.Web.Http.Owin.dll
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Hosting.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\Newtonsoft.Json.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.Web.Http.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\bin\System.Web.Http.Owin.xml
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\obj\Debug\OIDC_WebApi.csprojResolveAssemblyReference.cache
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\obj\Debug\OIDC_WebApi.exe
+C:\Users\gallikea\Documents\Visual Studio 2013\Projects\OIDC_WebSPA\OIDC_WebApi\obj\Debug\OIDC_WebApi.pdb

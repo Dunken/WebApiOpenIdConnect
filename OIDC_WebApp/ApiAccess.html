@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h2>Unauthorized Access</h2>
+    <form data-bind="submit: checkServer">
+        <input type="submit" title="Ping" value="Ping" />
+        <label data-bind="text: lastPing"></label>
+    </form>
+    
+    <h2>Authorized Access</h2>
+    <form data-bind="submit: sendPing">
+        <input type="submit" title="Ping" value="Ping" />
+        <label data-bind="text: eventsResult"></label>
+    </form>
+</body>
+</html>
+
+<script type="text/javascript" src="Scripts/knockout-3.1.0.js"></script>
+<script type="text/javascript" src="Scripts/jquery-1.10.2.js"></script>
+<script type="text/javascript" src="Scripts/apiaccess.js"></script>
